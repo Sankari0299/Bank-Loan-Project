@@ -29,8 +29,10 @@ Distinguish between 'Good Loans' and 'Bad Loans' based on specific loan status c
   - Bad Loan Funded Amount
   - Bad Loan Total Received Amount
 
-### Loan Status Grid View
-Gain a comprehensive overview of our lending operations and monitor the performance of loans categorized by 'Loan Status', including metrics such as 'Total Loan Applications,' 'Total Funded Amount,' 'Total Amount Received,' 'MTD Funded Amount,' 'MTD Amount Received,' 'Average Interest Rate,' and 'Average Debt-to-Income Ratio (DTI).'
+### Dashboard 1: Loan Status Grid View
+Gain a comprehensive overview of lending operations and monitor the performance of loans categorized by 'Loan Status', including metrics such as 'Total Loan Applications,' 'Total Funded Amount,' 'Total Amount Received,' 'MTD Funded Amount,' 'MTD Amount Received,' 'Average Interest Rate,' and 'Average Debt-to-Income Ratio (DTI).'
+
+![Screenshot 2024-06-18 010104](https://github.com/Sankari0299/Bank-Loan-Project-----Tableau/assets/122591357/ae097928-df14-4e1c-80dd-7f878a5e3740)
 
 ### Dashboard 2: Overview
 Visualize critical loan-related metrics and trends using various chart types:
@@ -59,8 +61,12 @@ Visualize critical loan-related metrics and trends using various chart types:
    - Metrics: 'Total Loan Applications,' 'Total Funded Amount,' 'Total Amount Received'
    - Objective: View how home ownership impacts loan applications and disbursements.
 
+![Screenshot 2024-06-18 010118](https://github.com/Sankari0299/Bank-Loan-Project-----Tableau/assets/122591357/020cf9ed-5d5f-4ede-a4b2-9bd5e5643a6b)
+
 ### Dashboard 3: Details
 The Details Dashboard provides a consolidated view of all essential loan data, offering a holistic snapshot of key loan-related metrics and data points for efficient access to critical information.
+
+![Screenshot 2024-06-18 010132](https://github.com/Sankari0299/Bank-Loan-Project-----Tableau/assets/122591357/6ed88fc6-5acf-4a51-84ae-23dacdea92dd)
 
 ## Dependencies
 - Microsoft SQL Server: Queries are written in Microsoft SQL Server.
