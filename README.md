@@ -89,6 +89,5 @@ SQL Server Setup:
 
 ## Run the Project:
 - Follow the instructions in the README files within the /sql and /tableau directories for detailed setup and usage guidelines.
-
 ---
 Feel free to reach out if you have any questions or need further assistance. Happy analyzing!
